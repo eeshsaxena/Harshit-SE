@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Anurag Khanna</h1>
+<h1 align="center">Hi 👋, I'm Harshit Mishra</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annuraagggiiit&label=Profile%20views&color=0e75b6&style=plastic&theme=dark" alt="annuraagggiiit" /> </p>
@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Supply-Chain-Management with Blockchain**
 
-- 🌱 I’m currently learning **Layer 2 Blockchain**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **Blockchain , Competitive Programming , Data Structures & Algorithms**
+- 💬 Ask me about ** , Competitive Programming , Data Structures & Algorithms**
 
-- 📫 How to reach me **https://anurag-khanna.netlify.app/**
+- 📫 How to reach me **/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
