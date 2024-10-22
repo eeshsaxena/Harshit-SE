@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harshit Mishra</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit-SE&label=Profile%20views&color=0e75b6&style=plastic&theme=dark" alt="Harshit-SE" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eeshsaxena&label=Profile%20views&color=0e75b6&style=plastic&theme=dark" alt="eeshsaxena" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harshit-SE&theme=onedark" alt="Harshit-SE" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eeshsaxena&theme=onedark" alt="eeshsaxena" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/HarshitMishra" target="blank"><img src="https://img.shields.io/twitter/follow/HarshitMishra?logo=twitter&style=for-the-badge&labelColor=1b1f23&style=plastic&color=36c5f0" alt="HarshitMishra" /></a> </p>
+<p align="left"> <a href="https://twitter.com/eeshsaxena" target="blank"><img src="https://img.shields.io/twitter/follow/eeshsaxena?logo=twitter&style=for-the-badge&labelColor=1b1f23&style=plastic&color=36c5f0" alt="eeshsaxena" /></a> </p>
+
+<p align="left"> <a href="https://github.com/eeshsaxena" target="blank">My GitHub Profile</a> </p>
+
 
 - 🔭 I’m currently working on **portfolio website**
 
