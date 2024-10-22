@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/HarshitMishra" target="blank"><img src="https://img.shields.io/twitter/follow/HarshitMishra?logo=twitter&style=for-the-badge&labelColor=1b1f23&style=plastic&color=36c5f0" alt="HarshitMishra" /></a> </p>
 
-- 🔭 I’m currently working on **Supply-Chain-Management with Blockchain**
+- 🔭 I’m currently working on **portfolio website**
 
-- 🌱 I’m currently learning **Competitive Programming, Data Structures & Algorithms**
+- 🌱 I’m currently learning **Competitive Programming, Data Structures & Algorithms,Frontend Development**
 
-- 💬 Ask me about **Blockchain, Competitive Programming, Data Structures & Algorithms**
+- 💬 Ask me about ** Competitive Programming, Data Structures & Algorithms**
 
-- 📫 How to reach me **harshit@example.com**
+- 📫 How to reach me **harshithihu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
